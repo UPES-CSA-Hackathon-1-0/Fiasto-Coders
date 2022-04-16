@@ -1,0 +1,2 @@
+The Bot is made with the help of the landbot because it is a working model with only 1-1 interaction at a time and we cannot use a business number here.
+But if you want to test the Bot. you will have to save the number first in our system then it will only work.
